@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "SieveMod",
+  "description": "Automated Sieve Mod for Minecraft 1.12.2. Process blocks through an energy-powered sieve to extract resources.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["faine"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
