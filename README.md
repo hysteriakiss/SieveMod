@@ -1,3 +1,4 @@
+<img width="1280" height="718" alt="photo_2026-06-30_10-32-30" src="https://github.com/user-attachments/assets/0c30974b-090a-4fbd-9575-bbeaf717fa33" />
 # SieveMod
 
 **Automated Sieve Mod for Minecraft Forge 1.12.2**
